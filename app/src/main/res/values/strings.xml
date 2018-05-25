@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MarvelApp.Estudo</string>
+    <string name="dr.Strange">Dr.Strange</string>
+    <string name="ant_man">Ant_Man</string>
+    <string name="agent_phil">Agent Phil Coulson</string>
+    <string name="deadpool">DeadPool</string>
+
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MarvelApp.Estudo</string>
+    <string name="dr.Strange">Dr. Estranho</string>
+    <string name="ant_man">Homem Formiga</string>
+    <string name="agent_phil">Agente Phil Coulson</string>
+    <string name="deadpool">DeadPool</string>
+</resources>
